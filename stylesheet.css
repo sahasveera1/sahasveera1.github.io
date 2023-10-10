@@ -16,7 +16,18 @@ h1 {
     font-weight: 700;
     line-height: 40px;
     margin: 0 0 20px;
-    text-align: center;
+    text-align: left;
     text-transform: uppercase;
     text-decoration: underline;
+}
+
+#statement-of-purpose {
+    color: purple;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 40px;
+    margin: 0 0 20px;
+    text-align: center;
+    text-transform: uppercase;
 }
