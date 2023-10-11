@@ -9,6 +9,11 @@ h1 {
     text-transform: uppercase;
 }
 
+/*change color of link text when mouse hovers over it */
+a:hover {
+    color: peru;
+}
+
 .my-role {
     color: black;
     font-family: 'Roboto', sans-serif;
