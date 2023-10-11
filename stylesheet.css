@@ -16,7 +16,9 @@ a:hover {
 #section1 {
     background-color:skyblue;
     border: 5px black;
-    width: 700px;
+    width: 1000px;
+    /*center this section*/
+    margin: 0 auto;
 }
 
 #section2 {
