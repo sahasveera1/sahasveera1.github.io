@@ -15,9 +15,10 @@ a:hover {
 
 #section1 {
     background-color:skyblue;
-    border: 5px black;
+    border: 5px solid black;
     width: 1000px;
-    margin: auto;
+    margin: 10px auto;
+    box-sizing: border-box;
 }
 
 #section2 {
