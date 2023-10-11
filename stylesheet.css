@@ -9,6 +9,19 @@ h1 {
     text-transform: uppercase;
 }
 
+a{
+    color: black;
+    font-size: 14px;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
 /*change color of link text when mouse hovers over it */
 a:hover {
     color: peru;
