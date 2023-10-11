@@ -13,6 +13,16 @@ a:hover {
     color: peru;
 }
 
+#section1 {
+    background-color:skyblue;
+    width: 100%;
+}
+
+#section2 {
+    background-color:#f0eea3;
+    width: 100%;
+}
+
 .my-role {
     color: black;
     font-family: 'Roboto', sans-serif;
