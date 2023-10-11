@@ -19,6 +19,7 @@ a:hover {
     width: 1000px;
     margin: 10px auto;
     box-sizing: border-box;
+    padding: 10px;
 }
 
 #section2 {
