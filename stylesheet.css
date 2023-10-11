@@ -22,12 +22,12 @@ h1 {
 }
 
 #statement-of-purpose {
-    color: purple;
+    color: black;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 700;
     line-height: 40px;
     margin: 0 0 20px;
     text-align: center;
-    text-transform: uppercase;
+    font-style: italic;
 }
